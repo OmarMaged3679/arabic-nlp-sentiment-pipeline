@@ -56,7 +56,7 @@ You can either do the same, or modify that line to load the dataset locally (e.g
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarMaged3679/arabic-nlp-sentiment-pipeline/blob/main/arabic_sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarMaged3679/arabic-nlp-sentiment-pipeline/blob/main/Arabic_Sentiment_Analysis.ipynb)
 
 ---
 
